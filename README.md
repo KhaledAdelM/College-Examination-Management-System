@@ -1,4 +1,4 @@
-# College-Examination-Management-System
+# College Examination Management System
 This system can be installed in colleges to manage exams.
 
 This system contains the following modules:
